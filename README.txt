@@ -1,6 +1,6 @@
-Add folders to your mahara like below. Please note that the spacelab folder is required for the theme to fully function as a responsive theme.
+Add the spacelab folder to your mahara as below. It is required for the theme to fully function as a responsive theme. Everything else goes into htdocs/theme/amelia
 
-htdocs/theme/amelia
+
 htdocs/js/spacelab
 
 To change logo:
