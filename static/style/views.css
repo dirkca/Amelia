@@ -129,3 +129,11 @@ ul.colnav li.selected span {
     margin: 0;
     padding-bottom: 3px;
 }
+#commentfiles {
+    background: transparent;
+    border-radius: 5px;
+}
+#blocksinstruction {
+    color: #ffffff;
+    font-size: 1.167em;
+}

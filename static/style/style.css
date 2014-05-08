@@ -271,7 +271,7 @@ div.pagination a {
 
 #mainmiddlewrap {
     min-height: 350px;
-	background: none repeat scroll 0 0 #000000;
+	background: transparent;
 	clear: both;
 }
 #main-column-container {
@@ -1307,6 +1307,29 @@ ul.groupuserstatus {
 .description, .unvalidated, .postdetails {
     color: #FFFFFF;
     font-size: 0.917em;
+}
+div.currentskin {
+    background: transparent;
+    border-radius: 5px;
+    padding: 10px;
+}
+ul.userskins, ul.siteskins, ul.favorskins {
+    background: Transparent;
+}
+div.pagination a {
+    background: transparent;
+    padding: 3px 5px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+div.warning, .errmsg {
+    background: url("../images/warning.png") no-repeat scroll 4px 3px #DEBB27;
+    border-radius: 5px;
+    color: #333333;
+    font-size: 1em;
+    line-height: 1.333em;
+    margin-bottom: 3px;
+    padding: 5px 5px 5px 26px;
 }
 
 

@@ -248,3 +248,17 @@
         margin: 10px 0;
     }
 }
+.site-stats-table div {
+    background: transparent;
+    border-bottom: 1px solid #FFFFFF;
+    padding: 3px 5px;
+}
+#suspenddelete #suspend {
+    background: transparent;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+#suspenddelete #delete {
+    background: transparent;
+    padding: 10px;
+}
